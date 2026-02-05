@@ -9,4 +9,4 @@ Chapter 2 emphasizes the importance of providing "good-enough" answers quickly t
 
 ## Context (optional)
 
-In technical roles, managers often ask questions about system design, technology choices, or implementation approaches. While providing quick feedback builds rapport, premature commitments to certain technical directions (like choosing a database, framework, or architecture pattern) can have long-lasting implications that affect the entire team's productivity.
+In technical roles, managers often ask questions about system design, technology choices, or implementation approaches. While providing quick feedback builds rapport, premature commitments to certain technical directions (like choosing a database, framework, or architecture pattern) can have long-lasting implications that affect the entire team's productivity
